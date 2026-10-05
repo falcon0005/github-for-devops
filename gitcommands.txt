@@ -1,0 +1,28 @@
+ ls
+   4 rm testing.py
+   5 git init
+   6 dir
+   7 dir -a
+   8 ls -a
+   9 clear
+  10 git status
+  11 git status
+  12 git add .\testing.py
+  13 git status
+  14 git rm --cached .\testing.py
+  15 git status
+  16 git add.
+  17 git add .
+  18 git status
+  19 git commit -m "added testing files"
+  20 git config --global "Anurag Kalbhor"
+  21 git config --global user .name "Anurag Kalbhor"
+  22 git config --global user.name "Anurag Kalbhor"
+  23 git config --global user.email "166249576+falcon0005@users.noreply.github.com."
+  24 git commit -m "added testing files"
+  25 git status
+  26 rm testing.py
+  27 clear
+  28 git status
+  29 git restore testing.py
+  30 git status
