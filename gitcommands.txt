@@ -26,3 +26,19 @@
   28 git status
   29 git restore testing.py
   30 git status
+  32 git status
+  33 git add .\gitcommands.txt
+  34 git status
+  35 git commit -m "added git command files"
+  36 git status
+  37 git remote add origin git@github.com:falcon0005/github-for-devops.git
+  38 git remote -v
+  39 git push origin master
+  40 git remote -v
+  41 git remote set-url origin https://@github.com/falcon0005/github-for-d... 
+  42 git remote -v
+  43 git push origin master
+  44 git remote set-url origin https://@github.com/falcon0005/github-for-d...
+  45 git push origin master
+  46 git remote set-url origin https://@github.com/falcon0005/github-for-d... 
+  47 git push origin master
