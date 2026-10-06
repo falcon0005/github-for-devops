@@ -1,4 +1,9 @@
-<<<<<<< HEAD
+"""Demo module."""
 
-=======
->>>>>>> 2ea48c1 (demo)
+
+def hello():
+    """Return a greeting."""
+    return "Hello world"
+
+
+hello()
