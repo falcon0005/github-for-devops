@@ -3,7 +3,7 @@ def greet(name):
     """Return a greeting for the supplied namesS."""
     if not name:
         raise ValueError("Name cannot be empty")
-    return f"Hi, {name}!"
+    return f"Hello, {name}!"
 
 
 def add(a, b):
