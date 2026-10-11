@@ -1,6 +1,6 @@
 
 def greet(name):
-    """Return a greeting for the supplied name."""
+    """Return a greeting for the supplied namesS."""
     if not name:
         raise ValueError("Name cannot be empty")
     return f"Hello, {name}!"
