@@ -19,7 +19,7 @@ Run tests:
 
     python -m pytest -v
 
-## Git practice
+## Git practices
 
 This repository is used to practise:
 
